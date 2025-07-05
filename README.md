@@ -1,6 +1,6 @@
-# 🤖 Generative AI (GenAI) Learnings
+# 🤖 Generative AI (GenAI)
 
-Welcome to my **Generative AI Learnings** repository!  
+Welcome to my **Generative AI** repository!  
 This collection showcases my hands-on exploration of GenAI tools, LLM architectures, Prompt Engineering, RAG, and building real-world applications with modern GenAI frameworks like LangChain, Hugging Face Transformers, and OpenAI APIs.
 
 ---
